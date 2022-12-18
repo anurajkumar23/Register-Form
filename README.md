@@ -1,8 +1,9 @@
 ## Register Form
 
-- Register your form with selected domain of interest
+- Register your form with selected domain of interest.
 - A simple, light and responsive UI.
 - Best code practice used.
+- A complete React project Made on HTML,CSS,Javascript,React.
 
 ## To use the Register-Form, [click here.](https://register-form-codebird.netlify.app/)
 
